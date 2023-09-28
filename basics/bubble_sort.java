@@ -20,6 +20,7 @@ public class bubble_sort{
         for(int i:data){
             System.out.print(i+" ");
         }
+        
         scan.close();
     }
 }

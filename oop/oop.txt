@@ -1,0 +1,11 @@
+1.classes and objects
+2.encapsulation
+3.inheritance
+4.polymorphism
+5.abstraction
+6.method overloading
+7.constructor and destructor
+8.access modifiers
+9.association, aggregation and compositon
+10.interfaces
+11.solid principles(single responsibility, open/closed, liskov substitution, interfaces segregation, depency inversion).
