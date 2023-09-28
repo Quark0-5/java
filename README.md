@@ -1,5 +1,5 @@
 # java
-How compile java code into byte code?
+How to compile java code into byte code?
 > javac java_file.java
 >
 > 
